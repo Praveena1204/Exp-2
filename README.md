@@ -36,34 +36,24 @@ Sequence Diagram
 
 6 . Finally, the librarian reports to the admin, who manages users, issues fines, and generates reports.
 
-
-
 # DIAGRAMS:
-
 ## USE CASE DIAGRAM:
-
-<img width="1114" height="965" alt="image" src="https://github.com/user-attachments/assets/00615881-6c66-4363-9e90-c668808544ec" />
+![usecase2](https://github.com/user-attachments/assets/be37dcba-7b53-4478-971b-7e3471676ff8)
 
 ## CLASS DIAGRAM:
-
-<img width="1103" height="842" alt="image" src="https://github.com/user-attachments/assets/1d7d9cf0-f1aa-41a7-a241-88955612a97e" />
+![class2](https://github.com/user-attachments/assets/38f1639c-788d-4435-b011-80f3d8ffa5f5)
 
 ## ACTIVITY DIAGRAM:
-
-<img width="1175" height="998" alt="image" src="https://github.com/user-attachments/assets/2309d0ed-fa9a-472b-99c1-486aca5c6c19" />
+![activity2](https://github.com/user-attachments/assets/45ab0d33-5cc1-41ab-adac-9834548508ea)
 
 ## PACKAGE DIAGRAM:
-
-<img width="1088" height="563" alt="image" src="https://github.com/user-attachments/assets/5601d8fb-5a4d-44e6-bf25-ddbcf244f4f2" />
+![package2](https://github.com/user-attachments/assets/867637b9-48a7-4c76-8530-80863723bcdf)
 
 ## COMMUNICATION DIAGRAM:
-
-<img width="1083" height="780" alt="image" src="https://github.com/user-attachments/assets/7a22896f-d07e-4359-b210-ef3e08c9fe02" />
+![comm2](https://github.com/user-attachments/assets/f0bdb0d0-4894-4388-91ec-6a3f615c662d)
 
 ## SEQUENCE DIAGRAM:
-
-<img width="1143" height="744" alt="image" src="https://github.com/user-attachments/assets/dd6a25ed-9d19-4356-b047-fcd66e2ae6f4" />
-
+![sequence2](https://github.com/user-attachments/assets/5c7bd55c-58f7-4fdb-b6c2-7f62c12c2a51)
 
 # RESULT:
 
